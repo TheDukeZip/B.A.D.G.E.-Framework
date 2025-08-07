@@ -74,4 +74,4 @@ This page provides a detailed overview of the SEC O.R.E.O. Badge's compliance wi
 
 ---
 
-Want to use this format for your own badge? Visit the [B.A.D.G.E. Framework](https://github.com/YourOrg/BADGE-Framework) and start documenting with transparency.
+Want to use this format for your own badge? Visit the [B.A.D.G.E. Framework](https://github.com/TheDukeZip/B.A.D.G.E.-Framework/) and start documenting with transparency.
