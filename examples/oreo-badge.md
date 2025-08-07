@@ -16,7 +16,7 @@ This page provides a detailed overview of the SEC O.R.E.O. Badge's compliance wi
 | **Battery & Power Safety**      | Overcharge protection                               | ✅     | TI BQ25895 onboard and built into battery  |
 |                                 | Current-limited charging                            | ✅     | Limited by TI BQ25895 config      |
 |                                 | Temperature protection                              | ✅     | Built into battery                |
-|                                 | Short-circuit protection                            |  ✅    | Built into battery                |
+|                                 | Short-circuit protection                            | ✅     | Built into battery                |
 |                                 | Battery physically covered                          | ❌     |                                   |
 |                                 | Reverse polarity protection                         | ✅     | Built into battery                |
 |                                 | Battery securely adhered                            | ✅     | 4mm adhesive foam                 |
@@ -31,8 +31,8 @@ This page provides a detailed overview of the SEC O.R.E.O. Badge's compliance wi
 |                                 | Heat-tested under continuous use                    | ✅     | Stable under 6+ hrs at max load   |
 |                                 | Low-voltage toy-safe design (<24V)                  | ✅     | RP2040 logic                      |
 | **Connectivity & RF**           | No wireless (Wi-Fi/BLE/RF)                          | ✅     | No radio components               |
-|                                 | USB data lines disabled                             | ❌     | USB only used for charging and reprogramming        |
-|                                 | No HID, keyboard, or storage emulation              | ✅     | Storage emulation only for firmware loading in RP2040 bootloader                |
+|                                 | USB data lines disabled                             | ❌     | USB only used for charging and reprogramming |
+|                                 | No HID, keyboard, or storage emulation              | ✅     | Storage emulation only for firmware loading in RP2040 bootloader |
 |                                 | Use of off-the-shelf RF modules / ICs               | ⬜     | Not applicable – no RF present    |
 |                                 | RF emissions within FCC limits                      | ⬜     | Not applicable – no transmitters  |
 |                                 | RF exposure safe for wearable devices               | ⬜     | Not applicable – no RF hardware   |
@@ -57,8 +57,8 @@ This page provides a detailed overview of the SEC O.R.E.O. Badge's compliance wi
 |                                 | Modular parts/connectors for reuse                  | ✅     | USB-C, JST-PH                    |
 |                                 | Minimal adhesives used                              | ✅     | No glues, only removable tape     |
 |                                 | Designed for easy disassembly                      | ✅     | Screws, no welding                |
-|                                 | Example code for reuse provided                     | ✅    |                                   |
-|                                 | Pinout diagram included                             | ⬜     | Not applicable - no user exposed headers       |
+|                                 | Example code for reuse provided                     | ✅     |                                   |
+|                                 | Pinout diagram included                             | ⬜     | Not applicable - no user exposed headers |
 |                                 | OpenSCAD/STEP files for enclosure shared            | ❌     |                                   |
 | **End-of-Life Responsibility**  | Battery is removable                                | ✅     | JST-PH connector                  |
 |                                 | Disposal guidance provided                          | ❌     |                                   |
@@ -71,3 +71,7 @@ This page provides a detailed overview of the SEC O.R.E.O. Badge's compliance wi
 |                                 | Local or regional manufacturing preferred           | ❌     | JLCPCB (China)                    |
 |                                 | Ethical material sourcing where possible            | ✅     | Lead-free parts and supply chain  |
 |                                 | GitHub includes changelog or commit history         | ✅     |                                   |
+
+---
+
+Want to use this format for your own badge? Visit the [B.A.D.G.E. Framework](https://github.com/YourOrg/BADGE-Framework) and start documenting with transparency.
