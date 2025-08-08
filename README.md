@@ -18,7 +18,7 @@ This project encourages:
 
 ## ✅ What Is a "B.A.D.G.E. Sheet"?
 
-Your **B.A.D.G.E. Sheet** is a simple checklist (or table) that shows which safety and environmental best practices your badge follows. You can publish it on your GitHub repo, print it on your lanyard card, or laser-etch it on the back of the PCB.
+Your **B.A.D.G.E. Sheet** is a simple checklist (or table) that shows which safety and environmental best practices your badge follows. You can publish it on your GitHub repo, or print it on materials distributed with your badge. A compliance logo is also provided for this as well, or could be silk screened onto your badge.
 
 Include the ✅ emoji for every item you meet, ❌ for what you intentionally did not include, and ⬜ for items that are not applicable to your badge design.
 ---
@@ -110,7 +110,7 @@ Include the ✅ emoji for every item you meet, ❌ for what you intentionally di
 
 3. **Publish It Publicly**  
    - Include your B.A.D.G.E. Sheet in your GitHub repo, silkscreen, QR code, or printed insert.
-   - **Proud of your compliance? Display the B.A.D.G.E. Compliant logo** (like the one above) on your README, badge card, or website.
+   - **Proud of your compliance? Display the B.A.D.G.E. Compliant logo** (like the one above) on your README, badge materials, badge, or website.
    - Help others understand your badge’s safety and environmental design at a glance.
 
 4. **Promote the Framework**  
